@@ -4,7 +4,7 @@ import streamlit as st
 import pickle as pkl
 
 
-with open('model.pkl','rb') as file:
+with open('Model/model_RF.pkl','rb') as file:
     model = pkl.load(file)
 
 
