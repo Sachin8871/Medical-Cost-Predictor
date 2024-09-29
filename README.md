@@ -61,7 +61,7 @@ Each model's performance was evaluated using metrics such as **Mean Squared Erro
    pip install -r requirements.txt
    ```
 
-## **Streanlit App**
+## **Streamlit App**
 
 To run the Streamlit application locally:
 
