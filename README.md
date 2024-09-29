@@ -10,6 +10,7 @@ This project aims to predict medical insurance costs based on features such as a
 - [Streamlit App](#streamlit-app)
 - [Conclusion](#conclusion)
 - [Future Improvements](#future-improvements)
+- [Contact](#contact)
 
 ## Overview
 
@@ -46,11 +47,41 @@ The following models were trained to predict medical insurance costs:
 
 Each model's performance was evaluated using metrics such as **Mean Squared Error (MSE)** and **R² Score**.
 
-## Streamlit App
+### **Installation Steps**
 
-The project has been deployed using **Streamlit**. The app allows users to input feature values such as age, BMI, smoker status, etc., and returns the predicted medical insurance cost.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sachin8871/Rainfall-Prediction.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd rainfall-prediction
+   ```
+3. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-To run the app locally:
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+## **Usage**
+
+To run the Streamlit application locally:
+
+1. Ensure all required dependencies are installed.
+2. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+   ```
+
+Go to the Steamlit App
+**Streamlit App**:[https://medical-cost-predictor-9eseypb5ebvtmdzdvkha66.streamlit.app/](https://medical-cost-predictor-9eseypb5ebvtmdzdvkha66.streamlit.app/)
+
+## **Conclusion**
+In this project, multiple models were trained to predict medical costs. The RandomForestRegressor performed better in capturing the non-linear relationships between the features and the target variable, making it the most accurate model for this task.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to me at:
+
+- **Email**: [sachindhakad211023@gmail.com](sachindhakad211023@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/sachin-kumar88/](https://www.linkedin.com/in/sachin-kumar88/)
+- **GitHub**: [https://github.com/Sachin8871](https://github.com/Sachin8871)
