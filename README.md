@@ -71,7 +71,7 @@ To run the Streamlit application locally:
    streamlit run app.py
    ```
 
-**Streamlit App**:[https://medical-cost-predictor-9eseypb5ebvtmdzdvkha66.streamlit.app/](https://medical-cost-predictor-9eseypb5ebvtmdzdvkha66.streamlit.app/)
+**Streamlit App**: [https://medical-cost-predictor-9eseypb5ebvtmdzdvkha66.streamlit.app/](https://medical-cost-predictor-9eseypb5ebvtmdzdvkha66.streamlit.app/)
 
 
 ## **Conclusion**
