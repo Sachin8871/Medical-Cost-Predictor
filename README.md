@@ -9,7 +9,6 @@ This project aims to predict medical insurance costs based on features such as a
 - [Models Used](#models-used)
 - [Streamlit App](#streamlit-app)
 - [Conclusion](#conclusion)
-- [Future Improvements](#future-improvements)
 - [Contact](#contact)
 
 ## Overview
@@ -62,7 +61,7 @@ Each model's performance was evaluated using metrics such as **Mean Squared Erro
    pip install -r requirements.txt
    ```
 
-## **Usage**
+## **Streanlit App**
 
 To run the Streamlit application locally:
 
