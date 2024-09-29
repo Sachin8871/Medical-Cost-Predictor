@@ -51,11 +51,11 @@ Each model's performance was evaluated using metrics such as **Mean Squared Erro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sachin8871/Rainfall-Prediction.git
+   git clone https://github.com/Sachin8871/Medical-Cost-Predictor.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd rainfall-prediction
+   cd Medical-Cost-Predictor
    ```
 3. Install required dependencies:
    ```bash
@@ -74,6 +74,7 @@ To run the Streamlit application locally:
 
 Go to the Steamlit App
 **Streamlit App**:[https://medical-cost-predictor-9eseypb5ebvtmdzdvkha66.streamlit.app/](https://medical-cost-predictor-9eseypb5ebvtmdzdvkha66.streamlit.app/)
+
 
 ## **Conclusion**
 In this project, multiple models were trained to predict medical costs. The RandomForestRegressor performed better in capturing the non-linear relationships between the features and the target variable, making it the most accurate model for this task.
