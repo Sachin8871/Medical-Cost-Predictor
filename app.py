@@ -4,7 +4,7 @@ import streamlit as st
 import pickle as pkl
 
 # Load your model
-with open('Model/Model_xgb.pkl', 'rb') as file:
+with open('Model/Model_LR.pkl', 'rb') as file:
     model = pkl.load(file)
 
 # Prediction function
